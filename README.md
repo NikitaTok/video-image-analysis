@@ -5,7 +5,7 @@
 
 ## Демонстрация
 
-![Главное окно]!(![screenshots/](screenshots/main_window.png)
+![Главное окно](screenshots/main_window.png)
 
 ## Возможности
 
