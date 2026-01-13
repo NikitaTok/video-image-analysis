@@ -5,7 +5,7 @@
 
 ## Демонстрация
 
-![Главное окно](https://github.com/NikitaTok/video-image-analysis/screenshots/main_window.png)
+![Главное окно]!(![screenshots/](screenshots/main_window.png)
 
 ## Возможности
 
@@ -92,22 +92,22 @@ pip install opencv-python numpy matplotlib Pillow
 ## Режимы гистограмм
 
 ### 1. **Стандартная гистограмма**
-![Гистограмма](https://github.com/NikitaTok/video-image-analysis/screenshots/histogram.png)
+![Гистограмма](screenshots/histogram.png)
 - Показывает распределение яркости по всему изображению
 - Полезно для общей оценки экспозиции
 
 ### 2. **Гистограмма фон/объект**
-![Фон/Объект](https://github.com/NikitaTok/video-image-analysis/screenshots/histogram_object_background.png)
+![Фон/Объект](screenshots/histogram_object_background.png)
 - Сравнивает гистограммы выделенной области и фона
 - Идеально для анализа конкретных объектов
 
 ### 3. **Гистограмма до/после**
-![До/После](https://github.com/NikitaTok/video-image-analysis/screenshots/histogram_before_after.png)
+![До/После](screenshots/histogram_before_after.png)
 - Сравнивает исходное и улучшенное изображение
 - Показывает эффект примененных алгоритмов
 
 ### 4. **Гистограмма фон/объект до/после**
-![Комплексный анализ](https://github.com/NikitaTok/video-image-analysis/screenshots/histogram_combination.png)
+![Комплексный анализ](screenshots/histogram_combination.png)
 - Комбинация всех режимов
 - Максимально детальный анализ
 
